@@ -1,4 +1,4 @@
 # Hola-mundo
-Mi primer repositorio de prueba
+Mi primer repositorio
 Autro: Emmanuel Jacobo
 Fecha: 4 de Febrero
